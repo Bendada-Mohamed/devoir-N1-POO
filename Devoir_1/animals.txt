@@ -1,0 +1,3 @@
+ Code :1, Nom scientifique :Canis lupus, Espece :Chien, Nombre de pieds :4, Pays dorigine:France | Se deplace : Chien marche avec ses 4 pieds.
+ Code :2, Nom scientifique :Felis catus, Espece :Chat, Nombre de pieds :4, Pays dorigine:Allemagne | Se deplace : Chat marche avec ses 4 pieds.
+ Code :3, Nom scientifique :Gallus gallus, Espece :Poulet, Nombre de pieds :2, Pays dorigine:Tamesna | se deplace : Poulet marche avec ses 2 pieds.
